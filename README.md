@@ -74,8 +74,8 @@ Based on testing, the XGBoost classifier was chosen for the final pipeline. The 
 
 
 ## Team Members
-- [Ashudeep Dubey](dubey.6@iitj.ac.in)
-- [Tanish Pagaria](pagaria.2@iitj.ac.in)
-- [Vinay Vaishnav](vaishnav.3@iitj.ac.in)  
+- [Ashudeep Dubey](mailto:dubey.6@iitj.ac.in)
+- [Tanish Pagaria](mailto:pagaria.2@iitj.ac.in)
+- [Vinay Vaishnav](mailto:vaishnav.3@iitj.ac.in)  
 
 (IIT Jodhpur Undergraduates)
